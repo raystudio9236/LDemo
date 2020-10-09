@@ -1,0 +1,15 @@
+{
+    "name": "RayStudio.RTFramework",
+    "references": [
+        "GUID:c73fc8156d162435e83de8eadb03d84f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
